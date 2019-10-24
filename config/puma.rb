@@ -1,3 +1,3 @@
 threads_count = 16
 threads threads_count, threads_count
-workers 2
+workers 1
